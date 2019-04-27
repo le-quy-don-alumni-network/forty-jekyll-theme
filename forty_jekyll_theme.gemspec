@@ -1,5 +1,4 @@
 # coding: utf-8
-gem 'bundler', '~> 1.12', '>= 1.12.1'
 
 Gem::Specification.new do |spec|
   spec.name          = "forty_jekyll_theme"
